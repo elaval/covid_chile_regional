@@ -1,0 +1,1 @@
+# covid_chile_regional
