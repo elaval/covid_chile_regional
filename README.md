@@ -24,5 +24,5 @@ Interesados en colaborar, indicarlo como un nuevo issue en este repositorio.
 - Controlar calidad de datos publicados (revisar que los datos estén correctos y consistentes con los oficiales). En caso de error, crear un "issue" en Github para notificarlo 
 
 ## Solicitud al Ministerio de Salud
-Si el Ministerio de Salud publica las fuentes de datos crudos en un formato que se pueda consumir directamente (API o tabla tsv/tsv) no se tedría un proceso de actualización de datos más fluido y oportuno (y se minimizaría el riesgo de errores).
+Si el Ministerio de Salud publica las fuentes de datos crudos en un formato que se pueda consumir directamente (API o tabla tsv/tsv) se tedría un proceso de actualización de datos más fluido y oportuno (y se minimizaría el riesgo de errores).
 
