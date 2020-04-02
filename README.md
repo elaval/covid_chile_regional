@@ -15,8 +15,8 @@ Necesitamos colaboradores que puedan apoyar en:
 
 ## Actualizar datos
 - Actualización de datos regionales (actualizar tabla tsv en la medida que se publique el nuevo reporte diario oficial)
-    Colaboraores en el repositorio Github, tendrán privilegios para actualizar las tablas y publicar versiones actiualizadas (commit & push)
-- Actualizar datos comunales:  hasta el momento esta tabla no se ha poblado.  Necesitamos colaboradores que puedan dar con la fuente de datos comunales diarios que tenga el Ministerio de Salud y generar las actualizaciones para cada comuna / dia
+    Colaboradores en el repositorio Github, tendrán privilegios para actualizar las tablas y publicar versiones actiualizadas (commit & push via git)
+- Actualizar datos comunales:  hasta el momento esta tabla no se ha poblado.  Necesitamos colaboradores que puedan dar con la fuente de datos comunales diarios que tenga el Ministerio de Salud y generar las actualizaciones para cada comuna / dia (y publicar actualizaciones vía git)
 
 Interesados en colaborar, indicarlo como un nuevo issue en este repositorio.
 
