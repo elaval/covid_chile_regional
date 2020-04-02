@@ -6,6 +6,8 @@ Estas tablas son **actualizadas por voluntarios** en base a datos publicados por
 
 Pueden contener errores, ya que se puede requerir un proceso manual de copiado y pegado de datos desde documentos oficiales.
 
+Cada tabla contiene columnas con: fecha, lugar, nuevos casos, total casos, nuevos fallecidos, total fallecidos
+
 ![Table template](https://github.com/elaval/covid_chile_regional/blob/master/table_example.png?raw=true)
 
 ## ¿Puedes colaborar?
