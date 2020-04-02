@@ -1,5 +1,7 @@
 # Datos COVID-19 para Chile (Regiones y Comunas)
 
+(Colaboradores voluntarios: crear un **issue** con el label **colanboradores** ofreciendo tu apoyo)
+
 Tablas con datos de diarios de casos y muertes pro COVID-19 en Chile a nivel Regional y Comunal
 
 Estas tablas son **actualizadas por voluntarios** en base a datos publicados por el Ministerio de Salud de Chile, pero **no es una fuente oficial** de datos.
