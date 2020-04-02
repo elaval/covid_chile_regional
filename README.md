@@ -18,6 +18,8 @@ Necesitamos colaboradores que puedan apoyar en:
     Colaboraores en el repositorio Github, tendrán privilegios para actualizar las tablas y publicar versiones actiualizadas (commit & push)
 - Actualizar datos comunales:  hasta el momento esta tabla no se ha poblado.  Necesitamos colaboradores que puedan dar con la fuente de datos comunales diarios que tenga el Ministerio de Salud y generar las actualizaciones para cada comuna / dia
 
+Interesados en colaborar, indicarlo como un nuevo issue en este repositorio.
+
 ## Control de calidad
 - Controlar calidad de datos publicados (revisar que los datos estén correctos y consistentes con los oficiales). En caso de error, crear un "issue" en Github para notificarlo 
 
