@@ -1,4 +1,9 @@
 # Datos COVID-19 para Chile (Regiones y Comunas)
+Los datos en este repositorio se actualizan gracias a la valiosa colaboración voluntaria de
+* @sebacea90
+* @tenosb
+* @naimbro
+* @Jprampad
 
 (Colaboradores voluntarios: crear un **issue** con el label **colaboradores** ofreciendo tu apoyo)
 
