@@ -1,4 +1,4 @@
-﻿date	location	new_cases	total_cases	new_deaths	total_deaths
+date	location	new_cases	total_cases	new_deaths	total_deaths
 2020-03-03	Arica y Parinacota	0	0	0	0
 2020-03-03	Tarapacá	0	0	0	0
 2020-03-03	Antofagasta	0	0	0	0
@@ -527,3 +527,19 @@
 2020-04-04	Los Lagos	25	259	0	0
 2020-04-04	Aysén	0	6	0	0
 2020-04-04	Magallanes	16	172	1	2
+2020-04-05	Arica y Parinacota	16	28	0	0
+2020-04-05	Tarapacá	3	20	0	0
+2020-04-05	Antofagasta	5	60	0	0
+2020-04-05	Atacama	0	5	0	0
+2020-04-05	Coquimbo	6	50	0	0
+2020-04-05	Valparaíso	6	191	0	1
+2020-04-05	Metropolitana	145	2.102	1	10
+2020-04-05	O'Higgins	3	41	0	0
+2020-04-05	Maule	6	103	0	1
+2020-04-05	Ñuble	24	425	1	3
+2020-04-05	Biobío	18	365	0	2
+2020-04-05	Araucanía	32	509	4	13
+2020-04-05	Los Ríos	10	99	0	1
+2020-04-05	Los Lagos	17	276	1	1
+2020-04-05	Aysén	1	7	0	0
+2020-04-05	Magallanes	18	190	0	2
