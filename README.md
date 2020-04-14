@@ -1,5 +1,19 @@
 # Datos COVID-19 para Chile (Regiones y Comunas)
-Los datos en este repositorio se actualizan gracias a la valiosa colaboración voluntaria de
+
+NOTA:  ESTE REPOSITORIO YA NO SERÁ ACTUALIZADO
+
+Debido a que actualmente el Minsiterio de Ciencia mantiene un repositorio con datos oficiales actualizados para Chile:
+
+https://github.com/MinCiencia/Datos-COVID19
+
+Y otros usuarios también mantienen repositorios actualizados automáticamente:
+
+https://github.com/ivanMSC/COVID19_Chile
+
+Ya no se justifica mantener un repositorio adicional con datos de Chile a nivel Regional
+
+Muchas gracias a quienes colaborarón en mantener este repositorio mientras fue utilizado
+
 * @sebacea90
 * @tenosb
 * @naimbro
