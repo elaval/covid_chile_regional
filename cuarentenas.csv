@@ -1,27 +1,32 @@
-comuna,region,fecha_inicio,fecha_termino
-Arica,Arica y Parinacota,2020-04-16,2020-04-30
+Angol,Araucanía,2020-04-30,2020-05-07
+Arica,Arica y Parinacota,2020-04-16,2020-05-07
 Cabo de Hornos,Magallanes,2020-03-25,2020-04-06
 Chillán Viejo,Ñuble,2020-03-30,2020-04-23
 Chillán,Ñuble,2020-03-30,2020-04-23
-El Bosque,Metropolitana,2020-04-16,2020-04-30
+comuna,region,fecha_inicio,fecha_termino
+El Bosque,Metropolitana,2020-04-16,2020-05-07
+Estacion Central,Metropolitana,2020-04-30,2020-05-07
 Hualpén,Biobío,2020-04-06,2020-04-16
 Independencia,Metropolitana,2020-03-26,2020-04-02
 Independencia,Metropolitana,2020-04-23,2020-04-30
 Isla de Pascua,Valparaíso,2020-03-20,2020-04-06
+La Pintana,Metropolitana,2020-04-30,2020-05-07
 Las Condes,Metropolitana,2020-03-26,2020-04-16
 Lo Barnechea,Metropolitana,2020-03-26,2020-04-13
 Nueva Imperial,Araucanía,2020-04-09,2020-04-16
 Osorno,Los Lagos,2020-03-30,2020-04-30
 Padre Las Casas,Araucanía,2020-03-28,2020-04-16
-Pedro Aguirre Cerda,Metropolitana,2020-04-23,2020-04-30
+Pedro Aguirre Cerda,Metropolitana,2020-04-23,2020-05-07
 Providencia,Metropolitana,2020-03-26,2020-04-13
-Puente Alto,Metropolitana,2020-04-09,2020-04-30
-Punta Arenas,Magallanes,2020-04-01,2020-04-30
-Quinta Normal,Metropolitana,2020-04-23,2020-04-30
-San Bernardo,Metropolitana,2020-04-16,2020-04-30
+Puente Alto,Metropolitana,2020-04-09,2020-05-07
+Punta Arenas,Magallanes,2020-04-01,2020-05-07
+Quinta Normal,Metropolitana,2020-04-23,2020-05-07
+San Bernardo,Metropolitana,2020-04-16,2020-05-07
 San Pedro de la Paz,Biobío,2020-04-06,2020-04-16
-Santiago,Metropolitana,2020-03-26,2020-04-30
+San Ramón,Metropolitana,2020-04-30,2020-05-07
+Santiago,Metropolitana,2020-03-26,2020-05-07
 Temuco,Araucanía,2020-03-28,2020-04-30
 Tortel,Aysén,2020-03-14,2020-03-27
+Victoria,Araucanía,2020-04-30,2020-05-07
 Vitacura,Metropolitana,2020-03-26,2020-04-13
-Ñuñoa,Metropolitana,2020-03-26,2020-04-30
+Ñuñoa,Metropolitana,2020-03-26,2020-05-07
